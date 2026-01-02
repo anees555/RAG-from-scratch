@@ -1,0 +1,1 @@
+# This repository is based on learning the Retrieval Augmented Generation (RAG) from basics. 
